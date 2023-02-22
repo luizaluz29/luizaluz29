@@ -3,9 +3,7 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luizaluz29&label=Profile%20views&color=ff1aec&style=flat" alt="luizaluz29" /> </p>
 
-👩‍🏫- English Teacher 
-
-🖥️- Student of Web Development
+🖥️- Web Development
 
 💡- Focusing on learning Js, Reactjs, and Nodejs 
 <br>
